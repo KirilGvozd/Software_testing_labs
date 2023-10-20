@@ -1,0 +1,15 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.plugins.git.GitTool_-DescriptorImpl plugin="git-client@4.5.0">
+  <installations class="hudson.plugins.git.GitTool-array">
+    <hudson.plugins.git.GitTool>
+      <name>Default</name>
+      <home>git.exe</home>
+      <properties/>
+    </hudson.plugins.git.GitTool>
+    <hudson.plugins.git.GitTool>
+      <name>My_git</name>
+      <home>C:\Program Files\Git\bin\git.exe</home>
+      <properties/>
+    </hudson.plugins.git.GitTool>
+  </installations>
+</hudson.plugins.git.GitTool_-DescriptorImpl>

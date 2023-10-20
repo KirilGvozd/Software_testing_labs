@@ -1,0 +1,10 @@
+Started by user [8mha:////4Fv2BD8nwofb2q2OfEbL7uSikvfcStpHF76bY2SBLWMEAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYe/dLi1CL97MyizJwcAMHCxu7BAAAA[0mKirill Gvozdovskiy
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\Simple Job
+[Simple Job] $ cmd /c call C:\windows\TEMP\jenkins3621414823521793311.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\Simple Job>ECHO Hello! 
+Hello!
+
+C:\ProgramData\Jenkins\.jenkins\workspace\Simple Job>exit 0 
+Finished: SUCCESS
