@@ -1,0 +1,6 @@
+C:\Labs\Software_testing\Software_testing_labs\Lab7\Lab7\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Labs\Software_testing\Software_testing_labs\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.AssemblyReference.cache
+C:\Labs\Software_testing\Software_testing_labs\Lab7\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\Software_testing\Software_testing_labs\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+C:\Labs\Software_testing\Software_testing_labs\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+C:\Labs\Software_testing\Software_testing_labs\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
