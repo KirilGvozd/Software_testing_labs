@@ -14,9 +14,26 @@ namespace Calculator
 
         public static double Multiply(double number1, double number2) => RoundNumber(number1 * number2);
 
-        public static double Divide(double number1, double number2) => RoundNumber(number1 / number2);
+        public static double Divide(double number1, double number2)
+        {
+            if (number2 == 0)
+            {
+                throw new DivideByZeroException();
+            }
+            return RoundNumber(number1 / number2);
+        }
 
-        public static double ExtractRoot(double number, double power) => RoundNumber(RaiseToThePower(number, 1 / power));
+        public static double ExtractRoot(double number, double power)
+        {
+            if (power % 2 == 0)
+            {
+                if (number < 0)
+                {
+                    throw new ArgumentException();
+                }
+            }
+            return RoundNumber(RaiseToThePower(number, 1 / power));
+        }
 
         public static double ExtractSquareRoot(double number)
         {
