@@ -95,5 +95,12 @@ namespace Calculator
             Assert.AreEqual(9.0, result);
         }
 
+        [Test]
+        public void Substraction_result()
+        {
+            double result = Calculator.Substract(3.0, 3.0);
+            Assert.AreEqual(0.0, result);
+        }
+
     }
 }
