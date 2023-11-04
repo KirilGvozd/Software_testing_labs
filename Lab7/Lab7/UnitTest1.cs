@@ -9,6 +9,13 @@ namespace Calculator
         }
 
         [Test]
+        public void DividingReturnsResult() 
+        {
+            double result = Calculator.Divide(3.0, 3.0);
+            Assert.AreEqual(1.0, result);
+        }
+
+        [Test]
         public void Divide_ByZero_ThrowsException()
         {
             Assert.Throws<DivideByZeroException>(() => Calculator.Divide(5.0, 0.0));
